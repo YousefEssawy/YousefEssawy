@@ -11,4 +11,4 @@
 
 📫 Let's connect and collaborate! Open to new opportunities, challenges, and conversations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/yousef-essawy-6ba663229/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yousefessawy)
