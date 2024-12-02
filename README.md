@@ -1,14 +1,38 @@
-👋 Hello World! I'm Yousef Essawy, a passionate front-end developer on a journey to create delightful and user-friendly web experiences.
+# 👋 Hello World! I'm Yousef Essawy 
 
-🚀 Currently diving into the world of:
-- HTML & CSS: Crafting the foundation of beautiful and responsive web pages.
-- JavaScript: Adding interactivity and dynamic features to my projects.
-- React.js: Building scalable and efficient user interfaces.
+**A passionate Full-Stack Developer dedicated to building robust and user-friendly web applications.**  
 
-🌐 Always eager to learn and explore the ever-evolving landscape of web development. My goal is to blend creativity with functionality to deliver seamless digital experiences.
+---
 
-💻 When I'm not coding, you can find me experimenting with new design trends, exploring UI/UX concepts, or enjoying a good cup of coffee while brainstorming my next project.
+## 🚀 Currently Working With:
+- **.NET**: Crafting secure and scalable back-end systems.  
+- **Angular**: Developing dynamic and responsive front-end experiences.  
+- **SQL**: Managing data efficiently and designing optimized database schemas.  
 
-📫 Let's connect and collaborate! Open to new opportunities, challenges, and conversations.
+---
+
+## 🌟 About Me:
+- I thrive on blending functionality with creativity to deliver seamless digital experiences.  
+- Always eager to learn and adapt to new technologies and best practices.  
+- Actively growing my skills in **full-stack development**, **performance optimization**, and **software architecture**.  
+
+---
+
+## ☕ Beyond Code:
+When I'm not coding, I run a side business called **Lumiere Fragrances**, where I craft perfumes inspired by famous brands. I’m also passionate about exploring design trends and brainstorming innovative ideas.  
+
+---
+
+## 📫 Let’s Connect and Collaborate!
+I’m open to new opportunities, challenges, and collaborations.  
+Feel free to reach out or check out my work:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yousefessawy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange)](https://sllr.co/lumiere-eg)  
+
+---
+
+**Let’s build something amazing together!** 🚀
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yousefessawy)
