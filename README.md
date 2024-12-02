@@ -19,7 +19,8 @@
 ---
 
 ## ☕ Beyond Code:
-- When I'm not coding, I run a side business called **Lumiere Fragrances**, where I craft perfumes inspired by famous brands. I’m also passionate about exploring design trends and brainstorming innovative ideas.  
+When I'm not coding, I run a side business called **Lumiere Fragrances**, where I craft perfumes inspired by famous brands. I’m also passionate about exploring design trends and brainstorming innovative ideas.  
+
 [![LumiereFragrances](https://img.shields.io/badge/Lumiere-View-orange)](https://sllr.co/lumiere-eg)
  
 ---
@@ -27,6 +28,7 @@
 ## 📫 Let’s Connect and Collaborate!
 I’m open to new opportunities, challenges, and collaborations.  
 Feel free to reach out or check out my work:  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yousefessawy)
 
 
